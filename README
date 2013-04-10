@@ -1,4 +1,5 @@
-Am avut de implementat un program ce poate afla foregroundul unei imaginii.
+Programul implementeaza o metoda prin care se poate afla foregroundul unei 
+imaginii.
 Implementarea mea contine 6 clase. Edge este clasa ce reprezinta o muchie.
 Formulas este clasa in care au fost implementate formulele de calcul pentru
 capacitatile grafului contruit. Graph reprezinta clasa in care se va contrui 
