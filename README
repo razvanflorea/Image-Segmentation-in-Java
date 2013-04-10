@@ -1,0 +1,16 @@
+Florea Stefan - Razvan
+321CB
+Am avut de implementat un program ce poate afla foregroundul unei imaginii.
+Implementarea mea contine 6 clase. Edge este clasa ce reprezinta o muchie.
+Formulas este clasa in care au fost implementate formulele de calcul pentru
+capacitatile grafului contruit. Graph reprezinta clasa in care se va contrui 
+si se va retine graful obtinut pe baza matricei imaginii. MaxFlow este clasa
+in care se obtine fluxul maxim si taietura minima in graful construit. Am 
+folosit pentru aceasta un algoritm de flux maxim intr-un graf, si anume 
+algoritmul Edmonds Karp. Clasa Main reprezinta clasa in care exista metoda
+main, de unde va incepe programul meu. In aceasta metoda se realizeaza si
+scrierea in fisier a foregroundului obtinut.
+Fiecare clasa si metoda sunt precedate de comentarii.
+Mentionez ca pentru un singur test imid au cativa pixeli diferiti si pentru
+ultimile teste imi depaseste limita de spatiu impusa. Limita de timp este
+intotdeauna respectata.
